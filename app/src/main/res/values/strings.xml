@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Maya AI</string>
+    <string name="welcome_message">Assalam-o-Alaikum! I am Maya AI. How can I help you today?</string>
+    <string name="status_listening">Listening to you…</string>
+    <string name="status_thinking">Maya is thinking…</string>
+    <string name="status_speaking">Maya is speaking…</string>
+    <string name="status_idle">Tap mic to speak</string>
+    <string name="btn_speak">Tap to speak</string>
+    <string name="btn_stop">Stop</string>
+    <string name="hint_text_input">Or type your message in English, Urdu, or Roman Urdu…</string>
+    <string name="title_languages">Language Mode</string>
+    <string name="lang_auto">Auto Detect</string>
+    <string name="lang_urdu">Urdu (اردو)</string>
+    <string name="lang_roman_urdu">Roman Urdu</string>
+    <string name="lang_english">English</string>
+    <string name="gemini_live_active">Gemini Live Active</string>
+</resources>
